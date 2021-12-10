@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Yicheng Wang
+
+PhD candidate at Xi'an Jiaotong University.
+
+My name is Yicheng Wang(王一成).I am 
 
 You can use the [editor on GitHub](https://github.com/ycwang-libra/ycwang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
