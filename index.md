@@ -2,7 +2,9 @@
 
 PhD candidate at Xi'an Jiaotong University.
 
-My name is Yicheng Wang(王一成). I am a second year Ph.D. student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/) at Xi'an [Jiaotong University](http://www.xjtu.edu.cn/)
+My name is Yicheng Wang(王一成). I am a second year Ph.D. student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/). My advisor is [Junmin Liu](https://gr.xjtu.edu.cn/web/junminliu).
+
+My research interests include **image fusion**, **low-level computer vision** and **generative model**.
 
 You can use the [editor on GitHub](https://github.com/ycwang-libra/ycwang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
